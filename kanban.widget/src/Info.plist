@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>local.kanban.bridge</string>
+<key>CFBundleName</key><string>Kanban Bridge</string>
+<key>NSRemindersFullAccessUsageDescription</key><string>Show and move your reminders on the desktop Kanban widget.</string>
+</dict></plist>
